@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import { db } from '../main'
+import { db } from '../db'
 
 export default {
   name: 'HelloWorld',
